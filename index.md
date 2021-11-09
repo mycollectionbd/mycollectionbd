@@ -1,37 +1,83 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<title>MY COLLECTION
+</title>
+</head>
+<body bgcolor="#FA9292">
 
-You can use the [editor on GitHub](https://github.com/mycollectionbd/mycollectionbd/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+    <font color="#000E54" size="24"> <p align="center"> <u> <b>MY COLLECTION</b> </u> </p> </font>
+    <img src="C:\Users\arilh\Desktop\my.jpg" height="250" width="250" align="right">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ 
+  
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+    <font size="6"style="font-family: fantasy;">PRODUCTS LIST: </font>
+    <font size="5" style="font-family: monospace;">
+    <ol><li>SHIRT</li>
+        <li>T-SHIRT</li>
+        <li>PANT</li>
+        <li>HOODIE</li>
+        <li>SWEATSHIRT</li> 
+        <li>PANJABI</li>
+        <li>WATCH</li>
+        <li>TRACK PANT</li>
+        <li>SUNGLASS</li>
+        <li>SAREE</li>
+        <li>TOPS</li>
+        <li>SHOES</li>
 
-- Bulleted
-- List
+     </ol>
+</font>
+  
 
-1. Numbered
-2. List
+<u><font size="3"><p align="right">MY COLLECTION</u>            
+<br><u>ADDRESS</u>: NARAYANGONJ</br>
+<br><u>NUMBER</u>: 01936043822</br>
+<br><u>MAIL</u>: mycollection.bd.22@gmail.com</br>
+<br><u>FACEBOOK PAGE</u>: <a href="https://www.facebook.com/MyCollection222/"> MY COLLECTION </a></br>
+<br><u>FACEBOOK GROUP</u>:<a href="https://www.facebook.com/groups/MyCollection.BD/?ref=share"> MY COLLECTION BD</a></br>
+</font></p>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mycollectionbd/mycollectionbd/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ <br>   <font  size="6"> PAYMENT HERE:</font></br> 
+    <p><img src="C:\Users\arilh\Desktop\bkash.png" height="250" width="250">  </p>   
+        <font size="5"> 1) <a href="http://www.bkash.com">BKASH</a></font>
+    <p><img src="C:\Users\arilh\Desktop\nagad.png" height="250" width="250">  </p>    
+       <font size="5"> 2)<a href="http://www.nagad.com.bd"> NAGAD </a> 
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+
+<font size="10"> <b> <u> <p align="center"> FREE SHIPPING </p> </u> </b> </font>
+<font size="8">          <p align="center"> OVER ORDER OF TAKA 3000 </p> </font> 
+
+<font size="10"> <b> <u> <p align="center"> COD </p> </u> </b> </font>
+<font size="8">          <p align="center"> CASH ON DELIVERY </p> </font>
+
+<font size="10"> <b> <u> <p align="center"> 24/7 SUPPORT </p> </u> </b> </font>
+<font size="8">          <p align="center"> READY SUPPORT FOR 24/7 </p> </font>
+
+<font size="10"> <b> <u> <p align="center"> NEED HELP? </p> </u> </b> </font>
+<font size="8">          <p align="center"> <a href="https://m.me/MyCollection222"> CLICK HERE </a></font> </p>
+
+<br><font size="10"><b> <p align="right">OWNER</b></font> 
+<br>NAME:ILHAM CHOWDHURY<br>
+<br>ADDRESS: 1 NO SHOHID SOHORADDI ROAD,NARAYANGONJ<br>
+<br>NUMBER: 01936043822</br>
+<br>PROFESSION: STUDENT</br>
+      
+    
+
+</p>
+
+<p align="center"> <img src="C:\Users\arilh\Desktop\mybd.jpg" height="500" width="1200"> </p> 
+
+</body>
+</html>
+
